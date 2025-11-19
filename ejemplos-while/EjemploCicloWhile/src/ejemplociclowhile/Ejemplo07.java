@@ -47,6 +47,10 @@ public class Ejemplo07 {
 
         promedio_final = suma_total / contador;
         System.out.printf("El promedio final es %.2f\n", promedio_final);
-
+/*
+        El pregrama me permite calcular los promedios al pedir qie ingrese 
+        las calificaciones mientras el contador se usa para saber las veces que 
+        se ingreso y para dividir obtener el promedio al dividir por el mismo.
+        */
     }
 }
